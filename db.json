@@ -83,9 +83,92 @@
     "discount": 78,
     "delivery_type": "Free delivery",
     "hidden_stars": 3.7,
+    "item_id": 6
+  },
+  {
+    "category_id": 4,
+    "category_name": "fashion",
+    "image": "https://i.ibb.co/23StKfC/5e3aa027808d.jpg",
+    "brand": "Fashionuma",
+    "description": "Georgette Blend Stitched Flared/A-line Gown",
+    "color": "Green",
+    "new_price": 1739,
+    "old_price": 4999,
+    "discount": 65,
+    "delivery_type": "Free delivery",
+    "hidden_stars": 4.2,
     "item_id": 7
+  },
+  {
+    "category_id": 4,
+    "category_name": "fashion",
+    "image": "https://i.ibb.co/DgWgmfC/385b3d1bb53b.jpg",
+    "brand": "Kedar Fab",
+    "description": "Embroidered Silk Blend Semi Stitched Anarkali Gown",
+    "color": "Purple",
+    "new_price": 37,
+    "old_price": 3999,
+    "discount": 90,
+    "delivery_type": "Free delivery",
+    "hidden_stars": 3.8,
+    "item_id": 8
+  },
+  {
+    "category_id": 4,
+    "category_name": "fashion",
+    "image": "https://i.ibb.co/qs2KLdV/50b26124bd8f.jpg",
+    "brand": "rahul",
+    "description": "Printed Crepe Blend Stitched Flared/A-line Gown",
+    "color": "Orange",
+    "new_price": 339,
+    "old_price": 1899,
+    "discount": 82,
+    "delivery_type": "Free delivery",
+    "hidden_stars": 4,
+    "item_id": 9
+  },
+  {
+    "category_id": 4,
+    "category_name": "fashion",
+    "image": "https://i.ibb.co/Ss80W0S/c509c13a35e0.jpg",
+    "brand": "ANNU PARIDHAN",
+    "description": "Embroidered Rayon Blend Stitched Anarkali Gown",
+    "color": "Pink",
+    "new_price": 339,
+    "old_price": 1599,
+    "discount": 78,
+    "delivery_type": "Free delivery",
+    "hidden_stars": 4.2,
+    "item_id": 10
+  },
+  {
+    "category_id": 4,
+    "category_name": "fashion",
+    "image": "https://i.ibb.co/7V1RjWm/0835af00ac15.jpg",
+    "brand": "Afsana",
+    "description": "Embroidered Pure Georgette Semi Stitched Anarkali Gown",
+    "color": "Green",
+    "new_price": 1739,
+    "old_price": 4999,
+    "discount": 65,
+    "delivery_type": "Free delivery",
+    "hidden_stars": 3.9,
+    "item_id": 11
+  },
+  {
+    "category_id": 4,
+    "category_name": "fashion",
+    "image": "https://i.ibb.co/hHW50NJ/ad74d8560017.jpg",
+    "brand": "ANNU PARIDHAN",
+    "description": "Embroidered Rayon Blend Stitched Anarkali Gown",
+    "color": "Green",
+    "new_price": 339,
+    "old_price": 1599,
+    "discount": 78,
+    "delivery_type": "Free delivery",
+    "hidden_stars": 3.7,
+    "item_id": 12
   }
-
   ],
   "mens": [
    
@@ -997,16 +1080,18 @@
 "jewellery":[
   {
     "description": "Meenakari Brass Dangle Earring",
-    "discountPrice": "299",
+    "discountPrice": 299,
     "img": "https://assetscdn1.paytm.com/images/catalog/product/J/JE/JEWMANSIYAORANGMANS31895221C53E46/1568718205220_0..jpg?imwidth=282&impolicy=hq",
     "id": 1,
     "brand": "MANSIYAORANGE",
-    "originalPrice": "999-70%",
+    "originalPrice": "999",
+    "dp":"70%",
+
     "category": "jwellery"
   },
   {
     "description": "Silver Brass Ring",
-    "discountPrice": "24,
+    "discountPrice": 249,
     "img": "https://assetscdn1.paytm.com/images/catalog/product/J/JE/JEWVIGHNAHARTA-VIGH1196979EA0CDD9/1562708763888_0..jpg?imwidth=282&impolicy=hq",
     "id": 2,
     "brand": "Vighnaharta",
@@ -1475,4 +1560,5 @@
     "category": "jwellery"
   }
 ]
+
 }
