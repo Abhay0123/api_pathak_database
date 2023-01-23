@@ -1569,6 +1569,7 @@
       "SalePrice": "89.99",
       "CsSalesPrice": "101.99",
       "Discount": 12,
+      "Rating":1,
       "LabelText": "HK warehouse"
     },
     {
@@ -1579,6 +1580,7 @@
       "SalePrice": "179.99",
       "CsSalesPrice": "206.99",
       "Discount": 13,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1589,6 +1591,7 @@
       "SalePrice": "1649.00",
       "CsSalesPrice": "1868.99",
       "Discount": 12,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1599,6 +1602,7 @@
       "SalePrice": "399.99",
       "CsSalesPrice": "475.99",
       "Discount": 16,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1609,6 +1613,7 @@
       "SalePrice": "1022.08",
       "CsSalesPrice": "1318.03",
       "Discount": 22,
+      "Rating":1,
       "LabelText": "PL Warehouse"
     },
     {
@@ -1619,6 +1624,7 @@
       "SalePrice": "679.99",
       "CsSalesPrice": "813.99",
       "Discount": 16,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1629,6 +1635,7 @@
       "SalePrice": "194.68",
       "CsSalesPrice": "312.99",
       "Discount": 38,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1639,6 +1646,7 @@
       "SalePrice": "95.99",
       "CsSalesPrice": "112.99",
       "Discount": 15,
+      "Rating":1,
       "LabelText": "US warehouse"
     },
     {
@@ -1649,6 +1657,7 @@
       "SalePrice": "2519.99",
       "CsSalesPrice": "3056.99",
       "Discount": 18,
+      "Rating":1,
       "LabelText": "Presale"
     },
     {
@@ -1659,6 +1668,7 @@
       "SalePrice": "1019.99",
       "CsSalesPrice": "1220.99",
       "Discount": 16,
+      "Rating":1,
       "LabelText": "PL Warehouse"
     },
     {
@@ -1669,6 +1679,7 @@
       "SalePrice": "285.99",
       "CsSalesPrice": "338.99",
       "Discount": 16,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1679,6 +1690,7 @@
       "SalePrice": "329.00",
       "CsSalesPrice": "329.00",
       "Discount": 0,
+      "Rating":1,
       "LabelText": ""
     },
     {
@@ -1689,6 +1701,7 @@
       "SalePrice": "204.99",
       "CsSalesPrice": "243.99",
       "Discount": 16,
+      "Rating":1,
       "LabelText": "US warehouse"
     },
     {
@@ -1699,6 +1712,7 @@
       "SalePrice": "99.00",
       "CsSalesPrice": "105.99",
       "Discount": 7,
+      "Rating":1,
       "LabelText": "JP Warehouse"
     },
     {
@@ -1709,6 +1723,7 @@
       "SalePrice": "119.99",
       "CsSalesPrice": "151.99",
       "Discount": 21,
+      "Rating":1,
       "LabelText": "Presale"
     },
     {
@@ -1719,6 +1734,7 @@
       "SalePrice": "139.99",
       "CsSalesPrice": "142.99",
       "Discount": 2,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1729,6 +1745,7 @@
       "SalePrice": "17.99",
       "CsSalesPrice": "28.83",
       "Discount": 38,
+      "Rating":1,
       "LabelText": "EU Warehouse"
     },
     {
@@ -1739,6 +1756,7 @@
       "SalePrice": "49.99",
       "CsSalesPrice": "58.99",
       "Discount": 15,
+      "Rating":1,
       "LabelText": "US warehouse"
     },
     {
@@ -1749,6 +1767,7 @@
       "SalePrice": "1049.99",
       "CsSalesPrice": "1266.99",
       "Discount": 17,
+      "Rating":1,
       "LabelText": "ES warehouse"
     },
     {
@@ -1759,6 +1778,7 @@
       "SalePrice": "399.99",
       "CsSalesPrice": "458.99",
       "Discount": 13,
+      "Rating":1,
       "LabelText": "Presale"
     }
 ],
@@ -1809,6 +1829,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "15.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1819,6 +1840,7 @@
   "SalePrice": "11.99",
   "CsSalesPrice": "11.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1829,6 +1851,7 @@
   "SalePrice": "9.99",
   "CsSalesPrice": "9.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1839,6 +1862,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "211.99",
   "Discount": 15,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1849,6 +1873,7 @@
   "SalePrice": "17.99",
   "CsSalesPrice": "17.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1859,6 +1884,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "15.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1869,6 +1895,7 @@
   "SalePrice": "40.99",
   "CsSalesPrice": "40.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1879,6 +1906,7 @@
   "SalePrice": "24.99",
   "CsSalesPrice": "24.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1889,6 +1917,7 @@
   "SalePrice": "75.99",
   "CsSalesPrice": "90.99",
   "Discount": 16,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1899,6 +1928,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "89.99",
   "Discount": 11,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1909,6 +1939,7 @@
   "SalePrice": "14.99",
   "CsSalesPrice": "14.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1919,6 +1950,7 @@
   "SalePrice": "54.99",
   "CsSalesPrice": "54.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1929,6 +1961,7 @@
   "SalePrice": "4.99",
   "CsSalesPrice": "4.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1939,6 +1972,7 @@
   "SalePrice": "12.99",
   "CsSalesPrice": "12.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1949,6 +1983,7 @@
   "SalePrice": "17.99",
   "CsSalesPrice": "17.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1959,6 +1994,7 @@
   "SalePrice": "3.99",
   "CsSalesPrice": "3.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1969,6 +2005,7 @@
   "SalePrice": "4.99",
   "CsSalesPrice": "4.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1979,6 +2016,7 @@
   "SalePrice": "6.99",
   "CsSalesPrice": "6.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1989,6 +2027,7 @@
   "SalePrice": "46.99",
   "CsSalesPrice": "46.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -1999,6 +2038,7 @@
   "SalePrice": "55.99",
   "CsSalesPrice": "55.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2009,6 +2049,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "89.99",
   "Discount": 11,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2019,6 +2060,7 @@
   "SalePrice": "46.99",
   "CsSalesPrice": "46.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2029,6 +2071,7 @@
   "SalePrice": "66.99",
   "CsSalesPrice": "66.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2039,6 +2082,7 @@
   "SalePrice": "6.99",
   "CsSalesPrice": "6.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2049,6 +2093,7 @@
   "SalePrice": "14.99",
   "CsSalesPrice": "14.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2059,6 +2104,7 @@
   "SalePrice": "48.99",
   "CsSalesPrice": "48.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2069,6 +2115,7 @@
   "SalePrice": "107.99",
   "CsSalesPrice": "107.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2079,6 +2126,7 @@
   "SalePrice": "96.99",
   "CsSalesPrice": "139.99",
   "Discount": 31,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2089,6 +2137,7 @@
   "SalePrice": "40.99",
   "CsSalesPrice": "40.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2099,6 +2148,7 @@
   "SalePrice": "87.99",
   "CsSalesPrice": "87.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2109,6 +2159,7 @@
   "SalePrice": "169.99",
   "CsSalesPrice": "193.99",
   "Discount": 12,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2119,6 +2170,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "39.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2129,6 +2181,7 @@
   "SalePrice": "34.99",
   "CsSalesPrice": "34.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2139,6 +2192,7 @@
   "SalePrice": "9.99",
   "CsSalesPrice": "9.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2149,6 +2203,7 @@
   "SalePrice": "42.99",
   "CsSalesPrice": "42.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2159,6 +2214,7 @@
   "SalePrice": "41.99",
   "CsSalesPrice": "41.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2169,6 +2225,7 @@
   "SalePrice": "9.99",
   "CsSalesPrice": "9.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2179,6 +2236,7 @@
   "SalePrice": "163.99",
   "CsSalesPrice": "163.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2189,6 +2247,7 @@
   "SalePrice": "11.99",
   "CsSalesPrice": "11.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2199,6 +2258,7 @@
   "SalePrice": "18.99",
   "CsSalesPrice": "18.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -2209,6 +2269,7 @@
 "SalePrice": "16.99",
 "CsSalesPrice": "16.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2219,6 +2280,7 @@
 "SalePrice": "16.99",
 "CsSalesPrice": "16.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2229,6 +2291,7 @@
 "SalePrice": "49.99",
 "CsSalesPrice": "49.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2239,6 +2302,7 @@
 "SalePrice": "39.99",
 "CsSalesPrice": "56.99",
 "Discount": 30,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2249,6 +2313,7 @@
 "SalePrice": "29.99",
 "CsSalesPrice": "29.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2259,6 +2324,7 @@
 "SalePrice": "39.99",
 "CsSalesPrice": "58.99",
 "Discount": 32,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2269,6 +2335,7 @@
 "SalePrice": "57.99",
 "CsSalesPrice": "57.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2279,6 +2346,7 @@
 "SalePrice": "57.99",
 "CsSalesPrice": "57.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2289,6 +2357,7 @@
 "SalePrice": "116.99",
 "CsSalesPrice": "116.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2299,6 +2368,7 @@
 "SalePrice": "14.99",
 "CsSalesPrice": "14.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2309,6 +2379,7 @@
 "SalePrice": "26.99",
 "CsSalesPrice": "26.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2319,6 +2390,7 @@
 "SalePrice": "32.99",
 "CsSalesPrice": "32.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2329,6 +2401,7 @@
 "SalePrice": "16.99",
 "CsSalesPrice": "16.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2339,6 +2412,7 @@
 "SalePrice": "9.99",
 "CsSalesPrice": "9.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2349,6 +2423,7 @@
 "SalePrice": "9.99",
 "CsSalesPrice": "9.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2359,6 +2434,7 @@
 "SalePrice": "23.99",
 "CsSalesPrice": "23.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2369,6 +2445,7 @@
 "SalePrice": "5.99",
 "CsSalesPrice": "5.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2379,6 +2456,7 @@
 "SalePrice": "5.99",
 "CsSalesPrice": "5.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2389,6 +2467,7 @@
 "SalePrice": "45.99",
 "CsSalesPrice": "45.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2399,6 +2478,7 @@
 "SalePrice": "15.99",
 "CsSalesPrice": "15.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2409,6 +2489,7 @@
 "SalePrice": "64.99",
 "CsSalesPrice": "80.99",
 "Discount": 20,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2419,6 +2500,7 @@
 "SalePrice": "88.99",
 "CsSalesPrice": "88.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2429,6 +2511,7 @@
 "SalePrice": "35.99",
 "CsSalesPrice": "35.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2439,6 +2522,7 @@
 "SalePrice": "39.99",
 "CsSalesPrice": "39.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2449,6 +2533,7 @@
 "SalePrice": "7.99",
 "CsSalesPrice": "7.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2459,6 +2544,7 @@
 "SalePrice": "876.99",
 "CsSalesPrice": "876.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2469,6 +2555,7 @@
 "SalePrice": "10.99",
 "CsSalesPrice": "10.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2479,6 +2566,7 @@
 "SalePrice": "205.99",
 "CsSalesPrice": "205.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2489,6 +2577,7 @@
 "SalePrice": "59.99",
 "CsSalesPrice": "79.99",
 "Discount": 25,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2499,6 +2588,7 @@
 "SalePrice": "4.99",
 "CsSalesPrice": "4.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2509,6 +2599,7 @@
 "SalePrice": "89.99",
 "CsSalesPrice": "89.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2519,6 +2610,7 @@
 "SalePrice": "5.99",
 "CsSalesPrice": "5.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2529,6 +2621,7 @@
 "SalePrice": "222.99",
 "CsSalesPrice": "222.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2539,6 +2632,7 @@
 "SalePrice": "44.99",
 "CsSalesPrice": "54.99",
 "Discount": 18,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2549,6 +2643,7 @@
 "SalePrice": "4.99",
 "CsSalesPrice": "4.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2559,6 +2654,7 @@
 "SalePrice": "6.99",
 "CsSalesPrice": "6.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2569,6 +2665,7 @@
 "SalePrice": "6.99",
 "CsSalesPrice": "6.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2579,6 +2676,7 @@
 "SalePrice": "7.99",
 "CsSalesPrice": "7.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2589,6 +2687,7 @@
 "SalePrice": "6.99",
 "CsSalesPrice": "6.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2599,6 +2698,7 @@
 "SalePrice": "57.99",
 "CsSalesPrice": "57.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2609,6 +2709,7 @@
 "SalePrice": "99.99",
 "CsSalesPrice": "110.99",
 "Discount": 10,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2619,6 +2720,7 @@
 "SalePrice": "182.99",
 "CsSalesPrice": "182.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": "Presale"
 },
 {
@@ -2629,6 +2731,7 @@
 "SalePrice": "44.99",
 "CsSalesPrice": "44.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2639,6 +2742,7 @@
 "SalePrice": "59.99",
 "CsSalesPrice": "71.99",
 "Discount": 17,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2649,6 +2753,7 @@
 "SalePrice": "49.99",
 "CsSalesPrice": "58.99",
 "Discount": 15,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2659,6 +2764,7 @@
 "SalePrice": "46.99",
 "CsSalesPrice": "55.99",
 "Discount": 16,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2669,6 +2775,7 @@
 "SalePrice": "1142.99",
 "CsSalesPrice": "1293.99",
 "Discount": 12,
+"Rating":1,
 "LabelText": "Presale"
 },
 {
@@ -2679,6 +2786,7 @@
 "SalePrice": "1029.00",
 "CsSalesPrice": "1161.99",
 "Discount": 11,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2689,6 +2797,7 @@
 "SalePrice": "138.00",
 "CsSalesPrice": "197.00",
 "Discount": 30,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2699,6 +2808,7 @@
 "SalePrice": "29.99",
 "CsSalesPrice": "35.99",
 "Discount": 17,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2709,6 +2819,7 @@
 "SalePrice": "42.99",
 "CsSalesPrice": "42.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2719,6 +2830,7 @@
 "SalePrice": "28.99",
 "CsSalesPrice": "28.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2729,6 +2841,7 @@
 "SalePrice": "58.99",
 "CsSalesPrice": "65.99",
 "Discount": 11,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2739,6 +2852,7 @@
 "SalePrice": "100.00",
 "CsSalesPrice": "143.00",
 "Discount": 30,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2749,6 +2863,7 @@
 "SalePrice": "139.99",
 "CsSalesPrice": "171.99",
 "Discount": 19,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2759,6 +2874,7 @@
 "SalePrice": "179.99",
 "CsSalesPrice": "219.99",
 "Discount": 18,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2769,6 +2885,7 @@
 "SalePrice": "119.99",
 "CsSalesPrice": "125.99",
 "Discount": 5,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2779,6 +2896,7 @@
 "SalePrice": "99.99",
 "CsSalesPrice": "118.99",
 "Discount": 16,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2789,6 +2907,7 @@
 "SalePrice": "379.99",
 "CsSalesPrice": "433.99",
 "Discount": 12,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2799,6 +2918,7 @@
 "SalePrice": "159.00",
 "CsSalesPrice": "199.00",
 "Discount": 20,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2809,6 +2929,7 @@
 "SalePrice": "209.99",
 "CsSalesPrice": "252.99",
 "Discount": 17,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2819,6 +2940,7 @@
 "SalePrice": "53.99",
 "CsSalesPrice": "53.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": "Presale"
 },
 {
@@ -2829,6 +2951,7 @@
 "SalePrice": "83.99",
 "CsSalesPrice": "83.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2839,6 +2962,7 @@
 "SalePrice": "12.99",
 "CsSalesPrice": "12.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2849,6 +2973,7 @@
 "SalePrice": "64.99",
 "CsSalesPrice": "64.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2859,6 +2984,7 @@
 "SalePrice": "174.99",
 "CsSalesPrice": "250.00",
 "Discount": 30,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2869,6 +2995,7 @@
 "SalePrice": "49.99",
 "CsSalesPrice": "67.99",
 "Discount": 26,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2879,6 +3006,7 @@
 "SalePrice": "44.99",
 "CsSalesPrice": "44.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2889,6 +3017,7 @@
 "SalePrice": "44.99",
 "CsSalesPrice": "44.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2899,6 +3028,7 @@
 "SalePrice": "42.99",
 "CsSalesPrice": "42.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2909,6 +3039,7 @@
 "SalePrice": "65.99",
 "CsSalesPrice": "72.99",
 "Discount": 10,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2919,6 +3050,7 @@
 "SalePrice": "159.99",
 "CsSalesPrice": "229.00",
 "Discount": 30,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2929,6 +3061,7 @@
 "SalePrice": "79.99",
 "CsSalesPrice": "99.99",
 "Discount": 20,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2939,6 +3072,7 @@
 "SalePrice": "1.99",
 "CsSalesPrice": "1.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2949,6 +3083,7 @@
 "SalePrice": "4.99",
 "CsSalesPrice": "4.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2959,6 +3094,7 @@
 "SalePrice": "55.99",
 "CsSalesPrice": "55.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2969,6 +3105,7 @@
 "SalePrice": "54.99",
 "CsSalesPrice": "71.99",
 "Discount": 24,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2979,6 +3116,7 @@
 "SalePrice": "35.99",
 "CsSalesPrice": "35.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2989,6 +3127,7 @@
 "SalePrice": "99.99",
 "CsSalesPrice": "99.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -2999,6 +3138,7 @@
 "SalePrice": "62.99",
 "CsSalesPrice": "62.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3009,6 +3149,7 @@
 "SalePrice": "34.99",
 "CsSalesPrice": "34.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3019,6 +3160,7 @@
 "SalePrice": "215.99",
 "CsSalesPrice": "215.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3029,6 +3171,7 @@
 "SalePrice": "60.99",
 "CsSalesPrice": "60.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3039,6 +3182,7 @@
 "SalePrice": "109.99",
 "CsSalesPrice": "109.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3049,6 +3193,7 @@
 "SalePrice": "65.99",
 "CsSalesPrice": "65.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3059,6 +3204,7 @@
 "SalePrice": "59.99",
 "CsSalesPrice": "59.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3069,6 +3215,7 @@
 "SalePrice": "699.99",
 "CsSalesPrice": "699.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3079,6 +3226,7 @@
 "SalePrice": "179.99",
 "CsSalesPrice": "179.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3089,6 +3237,7 @@
 "SalePrice": "29.99",
 "CsSalesPrice": "29.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3099,6 +3248,7 @@
 "SalePrice": "25.99",
 "CsSalesPrice": "25.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3109,6 +3259,7 @@
 "SalePrice": "18.99",
 "CsSalesPrice": "18.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3119,6 +3270,7 @@
 "SalePrice": "24.99",
 "CsSalesPrice": "24.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3129,6 +3281,7 @@
 "SalePrice": "19.99",
 "CsSalesPrice": "19.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3139,6 +3292,7 @@
 "SalePrice": "49.99",
 "CsSalesPrice": "49.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3149,6 +3303,7 @@
 "SalePrice": "279.00",
 "CsSalesPrice": "319.99",
 "Discount": 13,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3159,6 +3314,7 @@
 "SalePrice": "69.99",
 "CsSalesPrice": "73.99",
 "Discount": 5,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3169,6 +3325,7 @@
 "SalePrice": "58.99",
 "CsSalesPrice": "58.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": "HU Warehouse"
 },
 {
@@ -3179,6 +3336,7 @@
 "SalePrice": "89.99",
 "CsSalesPrice": "89.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": "HU Warehouse"
 },
 {
@@ -3189,6 +3347,7 @@
 "SalePrice": "2335.25",
 "CsSalesPrice": "2997.99",
 "Discount": 22,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3199,6 +3358,7 @@
 "SalePrice": "99.00",
 "CsSalesPrice": "100.99",
 "Discount": 2,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3209,6 +3369,7 @@
 "SalePrice": "379.00",
 "CsSalesPrice": "439.99",
 "Discount": 14,
+"Rating":1,
 "LabelText": "UK warehouse"
 },
 {
@@ -3219,6 +3380,7 @@
 "SalePrice": "189.99",
 "CsSalesPrice": "220.99",
 "Discount": 14,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3229,6 +3391,7 @@
 "SalePrice": "876.07",
 "CsSalesPrice": "1272.99",
 "Discount": 31,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3239,6 +3402,7 @@
 "SalePrice": "1399.00",
 "CsSalesPrice": "1599.00",
 "Discount": 13,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3249,6 +3413,7 @@
 "SalePrice": "389.36",
 "CsSalesPrice": "588.99",
 "Discount": 34,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3259,6 +3424,7 @@
 "SalePrice": "233.61",
 "CsSalesPrice": "365.99",
 "Discount": 36,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3269,6 +3435,7 @@
 "SalePrice": "329.99",
 "CsSalesPrice": "385.99",
 "Discount": 15,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3279,6 +3446,7 @@
 "SalePrice": "569.99",
 "CsSalesPrice": "656.99",
 "Discount": 13,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3289,6 +3457,7 @@
 "SalePrice": "25.99",
 "CsSalesPrice": "36.99",
 "Discount": 30,
+"Rating":1,
 "LabelText": "HU Warehouse"
 },
 {
@@ -3299,6 +3468,7 @@
 "SalePrice": "389.99",
 "CsSalesPrice": "456.99",
 "Discount": 15,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3309,6 +3479,7 @@
 "SalePrice": "499.99",
 "CsSalesPrice": "867.99",
 "Discount": 42,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3319,6 +3490,7 @@
 "SalePrice": "579.99",
 "CsSalesPrice": "705.99",
 "Discount": 18,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3329,6 +3501,7 @@
 "SalePrice": "3339.99",
 "CsSalesPrice": "4401.99",
 "Discount": 24,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3339,6 +3512,7 @@
 "SalePrice": "879.99",
 "CsSalesPrice": "1100.99",
 "Discount": 20,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3349,6 +3523,7 @@
 "SalePrice": "465.99",
 "CsSalesPrice": "573.99",
 "Discount": 19,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3359,6 +3534,7 @@
 "SalePrice": "209.99",
 "CsSalesPrice": "246.99",
 "Discount": 15,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3369,6 +3545,7 @@
 "SalePrice": "35.17",
 "CsSalesPrice": "56.99",
 "Discount": 38,
+"Rating":1,
 "LabelText": "DE Warehouse"
 },
 {
@@ -3379,6 +3556,7 @@
 "SalePrice": "39.99",
 "CsSalesPrice": "39.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3389,6 +3567,7 @@
 "SalePrice": "929.00",
 "CsSalesPrice": "929.00",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3399,6 +3578,7 @@
 "SalePrice": "129.99",
 "CsSalesPrice": "129.99",
 "Discount": 0,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3409,6 +3589,7 @@
 "SalePrice": "459.00",
 "CsSalesPrice": "699.00",
 "Discount": 34,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3419,6 +3600,7 @@
 "SalePrice": "89.99",
 "CsSalesPrice": "119.99",
 "Discount": 25,
+"Rating":1,
 "LabelText": "DE Warehouse"
 },
 {
@@ -3429,6 +3611,7 @@
 "SalePrice": "89.99",
 "CsSalesPrice": "119.99",
 "Discount": 25,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3439,6 +3622,7 @@
 "SalePrice": "973.42",
 "CsSalesPrice": "1273.12",
 "Discount": 24,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3449,6 +3633,7 @@
 "SalePrice": "119.99",
 "CsSalesPrice": "146.99",
 "Discount": 18,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3459,6 +3644,7 @@
 "SalePrice": "749.52",
 "CsSalesPrice": "857.99",
 "Discount": 13,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3469,6 +3655,7 @@
 "SalePrice": "3.84",
 "CsSalesPrice": "3.84",
 "Discount": 0,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3479,6 +3666,7 @@
 "SalePrice": "529.00",
 "CsSalesPrice": "529.00",
 "Discount": 0,
+"Rating":1,
 "LabelText": ""
 },
 {
@@ -3489,6 +3677,7 @@
 "SalePrice": "584.05",
 "CsSalesPrice": "742.03",
 "Discount": 21,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3499,6 +3688,7 @@
 "SalePrice": "1119.42",
 "CsSalesPrice": "1410.14",
 "Discount": 21,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3509,6 +3699,7 @@
 "SalePrice": "116.80",
 "CsSalesPrice": "239.99",
 "Discount": 51,
+"Rating":1,
 "LabelText": "DE Warehouse"
 },
 {
@@ -3519,6 +3710,7 @@
 "SalePrice": "135.99",
 "CsSalesPrice": "160.99",
 "Discount": 16,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3529,6 +3721,7 @@
 "SalePrice": "149.99",
 "CsSalesPrice": "171.99",
 "Discount": 13,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3539,6 +3732,7 @@
 "SalePrice": "1314.11",
 "CsSalesPrice": "1467.01",
 "Discount": 10,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3549,6 +3743,7 @@
 "SalePrice": "229.99",
 "CsSalesPrice": "270.99",
 "Discount": 15,
+"Rating":1,
 "LabelText": "US warehouse"
 },
 {
@@ -3559,6 +3754,7 @@
 "SalePrice": "139.99",
 "CsSalesPrice": "159.99",
 "Discount": 13,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3569,6 +3765,7 @@
 "SalePrice": "579.99",
 "CsSalesPrice": "696.99",
 "Discount": 17,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3579,6 +3776,7 @@
 "SalePrice": "1469.99",
 "CsSalesPrice": "1670.99",
 "Discount": 12,
+"Rating":1,
 "LabelText": "PL Warehouse"
 },
 {
@@ -3589,6 +3787,7 @@
 "SalePrice": "632.71",
 "CsSalesPrice": "1099.96",
 "Discount": 42,
+"Rating":1,
 "LabelText": "EU Warehouse"
 },
 {
@@ -3599,6 +3798,7 @@
 "SalePrice": "69.99",
 "CsSalesPrice": "72.99",
 "Discount": 4,
+"Rating":1,
 "LabelText": "DE Warehouse"
 }
 
@@ -3612,6 +3812,7 @@
   "SalePrice": "669.00",
   "CsSalesPrice": "699.00",
   "Discount": 4,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3622,6 +3823,7 @@
   "SalePrice": "1899.00",
   "CsSalesPrice": "2199.00",
   "Discount": 14,
+  "Rating":4,
   "LabelText": "Presale"
 },
 {
@@ -3632,6 +3834,7 @@
   "SalePrice": "174.99",
   "CsSalesPrice": "205.99",
   "Discount": 15,
+  "Rating":2,
   "LabelText": "US warehouse"
 },
 {
@@ -3642,6 +3845,7 @@
   "SalePrice": "118.99",
   "CsSalesPrice": "138.99",
   "Discount": 14,
+  "Rating":1,
   "LabelText": "US warehouse"
 },
 {
@@ -3652,6 +3856,7 @@
   "SalePrice": "1079.99",
   "CsSalesPrice": "1298.99",
   "Discount": 17,
+  "Rating":2,
   "LabelText": "UK warehouse"
 },
 {
@@ -3662,6 +3867,7 @@
   "SalePrice": "1019.99",
   "CsSalesPrice": "1220.99",
   "Discount": 16,
+  "Rating":3,
   "LabelText": "PL Warehouse"
 },
 {
@@ -3672,6 +3878,7 @@
   "SalePrice": "3899.99",
   "CsSalesPrice": "4299.99",
   "Discount": 9,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -3682,6 +3889,7 @@
   "SalePrice": "799.99",
   "CsSalesPrice": "958.99",
   "Discount": 17,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3692,6 +3900,7 @@
   "SalePrice": "1439.99",
   "CsSalesPrice": "1802.99",
   "Discount": 20,
+  "Rating":2,
   "LabelText": "PL Warehouse"
 },
 {
@@ -3702,6 +3911,7 @@
   "SalePrice": "889.99",
   "CsSalesPrice": "1011.99",
   "Discount": 12,
+  "Rating":4,
   "LabelText": "US warehouse"
 },
 {
@@ -3712,6 +3922,7 @@
   "SalePrice": "99.99",
   "CsSalesPrice": "114.99",
   "Discount": 13,
+  "Rating":1,
   "LabelText": "US warehouse"
 },
 {
@@ -3722,6 +3933,7 @@
   "SalePrice": "599.00",
   "CsSalesPrice": "758.60",
   "Discount": 21,
+  "Rating":2,
   "LabelText": "US warehouse"
 },
 {
@@ -3732,6 +3944,7 @@
   "SalePrice": "135.99",
   "CsSalesPrice": "159.99",
   "Discount": 15,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3742,6 +3955,7 @@
   "SalePrice": "429.00",
   "CsSalesPrice": "467.99",
   "Discount": 8,
+  "Rating":2,
   "LabelText": "US warehouse"
 },
 {
@@ -3752,6 +3966,7 @@
   "SalePrice": "65.99",
   "CsSalesPrice": "70.99",
   "Discount": 7,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3762,6 +3977,7 @@
   "SalePrice": "749.52",
   "CsSalesPrice": "1060.18",
   "Discount": 29,
+  "Rating":2,
   "LabelText": "PL Warehouse"
 },
 {
@@ -3772,6 +3988,7 @@
   "SalePrice": "243.35",
   "CsSalesPrice": "352.99",
   "Discount": 31,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3782,6 +3999,7 @@
   "SalePrice": "87.99",
   "CsSalesPrice": "98.99",
   "Discount": 11,
+  "Rating":1,
   "LabelText": "US warehouse"
 },
 {
@@ -3792,6 +4010,7 @@
   "SalePrice": "139.99",
   "CsSalesPrice": "156.99",
   "Discount": 11,
+  "Rating":3,
   "LabelText": "US warehouse"
 },
 {
@@ -3802,6 +4021,7 @@
   "SalePrice": "57.99",
   "CsSalesPrice": "82.99",
   "Discount": 30,
+  "Rating":1,
   "LabelText": "DE Warehouse"
 },
 {
@@ -3812,6 +4032,7 @@
   "SalePrice": "119.99",
   "CsSalesPrice": "209.99",
   "Discount": 43,
+  "Rating":3,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3822,6 +4043,7 @@
   "SalePrice": "389.99",
   "CsSalesPrice": "441.99",
   "Discount": 12,
+  "Rating":4,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3832,6 +4054,7 @@
   "SalePrice": "159.99",
   "CsSalesPrice": "183.99",
   "Discount": 13,
+  "Rating":4,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3842,6 +4065,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "205.99",
   "Discount": 13,
+  "Rating":1,
   "LabelText": "US warehouse"
 },
 {
@@ -3852,6 +4076,7 @@
   "SalePrice": "204.99",
   "CsSalesPrice": "250.99",
   "Discount": 18,
+  "Rating":3,
   "LabelText": "US warehouse"
 },
 {
@@ -3862,6 +4087,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "205.99",
   "Discount": 13,
+  "Rating":4,
   "LabelText": "US warehouse"
 },
 {
@@ -3872,6 +4098,7 @@
   "SalePrice": "69.99",
   "CsSalesPrice": "77.99",
   "Discount": 10,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3882,6 +4109,7 @@
   "SalePrice": "69.99",
   "CsSalesPrice": "77.99",
   "Discount": 10,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3892,6 +4120,7 @@
   "SalePrice": "2111.99",
   "CsSalesPrice": "2599.99",
   "Discount": 19,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3902,6 +4131,7 @@
   "SalePrice": "1079.99",
   "CsSalesPrice": "1483.05",
   "Discount": 27,
+  "Rating":4,
   "LabelText": "Presale"
 },
 {
@@ -3912,6 +4142,7 @@
   "SalePrice": "599.99",
   "CsSalesPrice": "747.99",
   "Discount": 20,
+  "Rating":3,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3922,6 +4153,7 @@
   "SalePrice": "1399.99",
   "CsSalesPrice": "1582.99",
   "Discount": 12,
+  "Rating":3,
   "LabelText": "US warehouse"
 },
 {
@@ -3932,6 +4164,7 @@
   "SalePrice": "159.99",
   "CsSalesPrice": "159.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3942,6 +4175,7 @@
   "SalePrice": "239.00",
   "CsSalesPrice": "269.99",
   "Discount": 11,
+  "Rating":3,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3952,6 +4186,7 @@
   "SalePrice": "359.00",
   "CsSalesPrice": "428.99",
   "Discount": 16,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3962,6 +4197,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "21.70",
   "Discount": 26,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3972,6 +4208,7 @@
   "SalePrice": "33.99",
   "CsSalesPrice": "33.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3982,6 +4219,7 @@
   "SalePrice": "59.99",
   "CsSalesPrice": "71.99",
   "Discount": 17,
+  "Rating":1,
   "LabelText": "DE Warehouse"
 },
 {
@@ -3992,6 +4230,7 @@
   "SalePrice": "99.99",
   "CsSalesPrice": "112.99",
   "Discount": 12,
+  "Rating":2,
   "LabelText": "DE Warehouse"
 },
 {
@@ -4002,6 +4241,7 @@
   "SalePrice": "299.00",
   "CsSalesPrice": "363.99",
   "Discount": 18,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4012,6 +4252,7 @@
   "SalePrice": "699.00",
   "CsSalesPrice": "819.99",
   "Discount": 15,
+  "Rating":3,
   "LabelText": "US warehouse"
 },
 {
@@ -4022,6 +4263,7 @@
   "SalePrice": "679.99",
   "CsSalesPrice": "825.99",
   "Discount": 18,
+  "Rating":2,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4032,6 +4274,7 @@
   "SalePrice": "1119.99",
   "CsSalesPrice": "1355.99",
   "Discount": 17,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4042,6 +4285,7 @@
   "SalePrice": "1519.99",
   "CsSalesPrice": "1841.99",
   "Discount": 17,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4052,6 +4296,7 @@
   "SalePrice": "1099.99",
   "CsSalesPrice": "1340.99",
   "Discount": 18,
+  "Rating":2,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4062,6 +4307,7 @@
   "SalePrice": "461.99",
   "CsSalesPrice": "461.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4072,6 +4318,7 @@
   "SalePrice": "519.99",
   "CsSalesPrice": "615.99",
   "Discount": 16,
+  "Rating":2,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4082,6 +4329,7 @@
   "SalePrice": "109.99",
   "CsSalesPrice": "130.99",
   "Discount": 16,
+  "Rating":3,
   "LabelText": "HK warehouse"
 },
 {
@@ -4092,6 +4340,7 @@
   "SalePrice": "109.99",
   "CsSalesPrice": "130.99",
   "Discount": 16,
+  "Rating":1,
   "LabelText": "HK warehouse"
 },
 {
@@ -4102,6 +4351,7 @@
   "SalePrice": "89.99",
   "CsSalesPrice": "101.99",
   "Discount": 12,
+  "Rating":4,
   "LabelText": "HK warehouse"
 },
 {
@@ -4112,6 +4362,7 @@
   "SalePrice": "89.99",
   "CsSalesPrice": "101.99",
   "Discount": 12,
+  "Rating":5,
   "LabelText": "HK warehouse"
 },
 {
@@ -4122,6 +4373,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "206.99",
   "Discount": 13,
+  "Rating":2,
   "LabelText": "HK warehouse"
 },
 {
@@ -4132,6 +4384,7 @@
   "SalePrice": "89.99",
   "CsSalesPrice": "101.99",
   "Discount": 12,
+  "Rating":1,
   "LabelText": "HK warehouse"
 },
 {
@@ -4142,6 +4395,7 @@
   "SalePrice": "189.99",
   "CsSalesPrice": "206.99",
   "Discount": 8,
+  "Rating":5,
   "LabelText": "JP Warehouse"
 },
 {
@@ -4152,6 +4406,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "46.99",
   "Discount": 15,
+  "Rating":2,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4162,6 +4417,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "46.99",
   "Discount": 15,
+  "Rating":2,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4172,6 +4428,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "46.99",
   "Discount": 15,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4182,6 +4439,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "46.99",
   "Discount": 15,
+  "Rating":1,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4192,6 +4450,7 @@
   "SalePrice": "26.99",
   "CsSalesPrice": "28.99",
   "Discount": 7,
+  "Rating":4,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4202,6 +4461,7 @@
   "SalePrice": "1719.99",
   "CsSalesPrice": "1962.99",
   "Discount": 12,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4212,6 +4472,7 @@
   "SalePrice": "36.99",
   "CsSalesPrice": "53.37",
   "Discount": 31,
+  "Rating":1,
   "LabelText": "PL Warehouse"
 },
 {
@@ -4222,6 +4483,7 @@
   "SalePrice": "354.99",
   "CsSalesPrice": "415.99",
   "Discount": 15,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4232,6 +4494,7 @@
   "SalePrice": "899.99",
   "CsSalesPrice": "1112.99",
   "Discount": 19,
+  "Rating":4,
   "LabelText": "US warehouse"
 },
 {
@@ -4242,6 +4505,7 @@
   "SalePrice": "109.99",
   "CsSalesPrice": "119.99",
   "Discount": 8,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4252,6 +4516,7 @@
   "SalePrice": "1239.99",
   "CsSalesPrice": "1495.99",
   "Discount": 17,
+  "Rating":5,
   "LabelText": "UK warehouse"
 },
 {
@@ -4262,6 +4527,7 @@
   "SalePrice": "1059.99",
   "CsSalesPrice": "1266.99",
   "Discount": 16,
+  "Rating":2,
   "LabelText": "PL Warehouse"
 },
 {
@@ -4272,6 +4538,7 @@
   "SalePrice": "1899.99",
   "CsSalesPrice": "2199.99",
   "Discount": 14,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4282,6 +4549,7 @@
   "SalePrice": "1189.99",
   "CsSalesPrice": "1495.99",
   "Discount": 20,
+  "Rating":5,
   "LabelText": "PL Warehouse"
 },
 {
@@ -4292,6 +4560,7 @@
   "SalePrice": "1899.00",
   "CsSalesPrice": "1934.99",
   "Discount": 2,
+  "Rating":1,
   "LabelText": "PL Warehouse"
 },
 {
@@ -4302,6 +4571,7 @@
   "SalePrice": "35.99",
   "CsSalesPrice": "98.99",
   "Discount": 64,
+  "Rating":1,
   "LabelText": "DE Warehouse"
 },
 {
@@ -4312,6 +4582,7 @@
   "SalePrice": "18.99",
   "CsSalesPrice": "18.99",
   "Discount": 0,
+  "Rating":2,
   "LabelText": "DE Warehouse"
 },
 {
@@ -4322,6 +4593,7 @@
   "SalePrice": "12.99",
   "CsSalesPrice": "12.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": "DE Warehouse"
 },
 {
@@ -4332,6 +4604,7 @@
   "SalePrice": "57.99",
   "CsSalesPrice": "113.99",
   "Discount": 49,
+  "Rating":2,
   "LabelText": "DE Warehouse"
 },
 {
@@ -4342,6 +4615,7 @@
   "SalePrice": "165.99",
   "CsSalesPrice": "209.99",
   "Discount": 21,
+  "Rating":4,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4352,6 +4626,7 @@
   "SalePrice": "459.99",
   "CsSalesPrice": "599.99",
   "Discount": 23,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4362,6 +4637,7 @@
   "SalePrice": "259.99",
   "CsSalesPrice": "259.99",
   "Discount": 0,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4372,6 +4648,7 @@
   "SalePrice": "64.99",
   "CsSalesPrice": "64.99",
   "Discount": 0,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4382,6 +4659,7 @@
   "SalePrice": "82.99",
   "CsSalesPrice": "82.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4392,6 +4670,7 @@
   "SalePrice": "60.99",
   "CsSalesPrice": "60.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4402,6 +4681,7 @@
   "SalePrice": "84.99",
   "CsSalesPrice": "84.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 }
 ],
@@ -4414,6 +4694,7 @@
   "SalePrice": "22.99",
   "CsSalesPrice": "36.99",
   "Discount": 38,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4424,6 +4705,7 @@
   "SalePrice": "43.99",
   "CsSalesPrice": "66.99",
   "Discount": 34,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4434,6 +4716,7 @@
   "SalePrice": "56.99",
   "CsSalesPrice": "69.99",
   "Discount": 19,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4444,6 +4727,7 @@
   "SalePrice": "59.99",
   "CsSalesPrice": "79.99",
   "Discount": 25,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4454,6 +4738,7 @@
   "SalePrice": "19.99",
   "CsSalesPrice": "26.99",
   "Discount": 26,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4464,6 +4749,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "39.99",
   "Discount": 25,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4474,6 +4760,7 @@
   "SalePrice": "23.99",
   "CsSalesPrice": "23.99",
   "Discount": 0,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4484,6 +4771,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "109.99",
   "Discount": 27,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4494,6 +4782,7 @@
   "SalePrice": "32.99",
   "CsSalesPrice": "41.99",
   "Discount": 21,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4504,6 +4793,7 @@
   "SalePrice": "99.99",
   "CsSalesPrice": "159.99",
   "Discount": 38,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4514,6 +4804,7 @@
   "SalePrice": "8.99",
   "CsSalesPrice": "9.99",
   "Discount": 10,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4524,6 +4815,7 @@
   "SalePrice": "19.99",
   "CsSalesPrice": "29.99",
   "Discount": 33,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4534,6 +4826,7 @@
   "SalePrice": "8.59",
   "CsSalesPrice": "14.99",
   "Discount": 43,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4544,6 +4837,7 @@
   "SalePrice": "28.99",
   "CsSalesPrice": "39.99",
   "Discount": 28,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4554,6 +4848,7 @@
   "SalePrice": "209.99",
   "CsSalesPrice": "329.99",
   "Discount": 36,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4564,6 +4859,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "18.99",
   "Discount": 16,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4574,6 +4870,7 @@
   "SalePrice": "21.99",
   "CsSalesPrice": "24.99",
   "Discount": 12,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4584,6 +4881,7 @@
   "SalePrice": "8.88",
   "CsSalesPrice": "11.99",
   "Discount": 26,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4594,6 +4892,7 @@
   "SalePrice": "24.99",
   "CsSalesPrice": "34.99",
   "Discount": 29,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4604,6 +4903,7 @@
   "SalePrice": "9.99",
   "CsSalesPrice": "9.99",
   "Discount": 0,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4614,6 +4914,7 @@
   "SalePrice": "32.99",
   "CsSalesPrice": "37.99",
   "Discount": 13,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4624,6 +4925,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "63.99",
   "Discount": 22,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4634,6 +4936,7 @@
   "SalePrice": "34.99",
   "CsSalesPrice": "34.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4644,6 +4947,7 @@
   "SalePrice": "74.99",
   "CsSalesPrice": "91.99",
   "Discount": 18,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4654,6 +4958,7 @@
   "SalePrice": "389.99",
   "CsSalesPrice": "564.23",
   "Discount": 31,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4664,6 +4969,7 @@
   "SalePrice": "46.99",
   "CsSalesPrice": "59.99",
   "Discount": 22,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4674,6 +4980,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "63.99",
   "Discount": 22,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4684,6 +4991,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "65.99",
   "Discount": 24,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4694,6 +5002,7 @@
   "SalePrice": "46.99",
   "CsSalesPrice": "55.99",
   "Discount": 16,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4704,6 +5013,7 @@
   "SalePrice": "13.99",
   "CsSalesPrice": "13.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4714,6 +5024,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "34.99",
   "Discount": 14,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4724,6 +5035,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "99.99",
   "Discount": 20,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4734,6 +5046,7 @@
   "SalePrice": "18.99",
   "CsSalesPrice": "29.99",
   "Discount": 37,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4744,6 +5057,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "79.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4754,6 +5068,7 @@
   "SalePrice": "18.99",
   "CsSalesPrice": "29.99",
   "Discount": 37,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4764,6 +5079,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "29.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4774,6 +5090,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "39.99",
   "Discount": 25,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4784,6 +5101,7 @@
   "SalePrice": "21.99",
   "CsSalesPrice": "29.99",
   "Discount": 27,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4794,6 +5112,7 @@
   "SalePrice": "59.99",
   "CsSalesPrice": "79.99",
   "Discount": 25,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4804,6 +5123,7 @@
   "SalePrice": "37.99",
   "CsSalesPrice": "39.99",
   "Discount": 5,
+  "Rating":4,
   "LabelText": ""
 },{
   "id": 417957,
@@ -4813,6 +5133,7 @@
   "SalePrice": "25.99",
   "CsSalesPrice": "29.99",
   "Discount": 13,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4823,6 +5144,7 @@
   "SalePrice": "12.99",
   "CsSalesPrice": "29.99",
   "Discount": 57,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4833,6 +5155,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "63.99",
   "Discount": 22,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4843,6 +5166,7 @@
   "SalePrice": "12.99",
   "CsSalesPrice": "19.99",
   "Discount": 35,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4853,6 +5177,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "49.99",
   "Discount": 20,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4863,6 +5188,7 @@
   "SalePrice": "54.99",
   "CsSalesPrice": "69.99",
   "Discount": 21,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4873,6 +5199,7 @@
   "SalePrice": "69.99",
   "CsSalesPrice": "99.99",
   "Discount": 30,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4883,6 +5210,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "49.99",
   "Discount": 20,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4893,6 +5221,7 @@
   "SalePrice": "99.99",
   "CsSalesPrice": "119.99",
   "Discount": 17,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -4903,6 +5232,7 @@
   "SalePrice": "12.99",
   "CsSalesPrice": "12.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4913,6 +5243,7 @@
   "SalePrice": "16.99",
   "CsSalesPrice": "16.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4923,6 +5254,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "45.99",
   "Discount": 13,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4933,6 +5265,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "79.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4943,6 +5276,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "29.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -4953,6 +5287,7 @@
   "SalePrice": "239.99",
   "CsSalesPrice": "296.51",
   "Discount": 19,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4963,6 +5298,7 @@
   "SalePrice": "109.99",
   "CsSalesPrice": "159.99",
   "Discount": 31,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -4973,6 +5309,7 @@
   "SalePrice": "19.99",
   "CsSalesPrice": "22.99",
   "Discount": 13,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -4983,6 +5320,7 @@
   "SalePrice": "139.99",
   "CsSalesPrice": "161.66",
   "Discount": 13,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -4993,6 +5331,7 @@
   "SalePrice": "57.99",
   "CsSalesPrice": "57.99",
   "Discount": 0,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5003,6 +5342,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "45.99",
   "Discount": 13,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5013,6 +5353,7 @@
   "SalePrice": "59.99",
   "CsSalesPrice": "99.99",
   "Discount": 40,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5023,6 +5364,7 @@
   "SalePrice": "54.99",
   "CsSalesPrice": "63.99",
   "Discount": 14,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5033,6 +5375,7 @@
   "SalePrice": "89.99",
   "CsSalesPrice": "125.99",
   "Discount": 29,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5043,6 +5386,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "69.99",
   "Discount": 43,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5053,6 +5397,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "18.99",
   "Discount": 16,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5063,6 +5408,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "62.99",
   "Discount": 21,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5073,6 +5419,7 @@
   "SalePrice": "82.99",
   "CsSalesPrice": "109.99",
   "Discount": 25,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5083,6 +5430,7 @@
   "SalePrice": "59.99",
   "CsSalesPrice": "79.99",
   "Discount": 25,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5093,6 +5441,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "79.99",
   "Discount": 0,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5103,6 +5452,7 @@
   "SalePrice": "50.99",
   "CsSalesPrice": "56.99",
   "Discount": 11,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5113,6 +5463,7 @@
   "SalePrice": "9.99",
   "CsSalesPrice": "9.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5123,6 +5474,7 @@
   "SalePrice": "22.99",
   "CsSalesPrice": "32.99",
   "Discount": 30,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5133,6 +5485,7 @@
   "SalePrice": "21.99",
   "CsSalesPrice": "35.99",
   "Discount": 39,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5143,6 +5496,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "59.99",
   "Discount": 17,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5153,6 +5507,7 @@
   "SalePrice": "69.99",
   "CsSalesPrice": "85.99",
   "Discount": 19,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5163,6 +5518,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "39.99",
   "Discount": 25,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5173,6 +5529,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "15.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5183,6 +5540,7 @@
   "SalePrice": "25.99",
   "CsSalesPrice": "32.99",
   "Discount": 21,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5193,6 +5551,7 @@
   "SalePrice": "8.99",
   "CsSalesPrice": "12.99",
   "Discount": 31,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5203,6 +5562,7 @@
   "SalePrice": "24.99",
   "CsSalesPrice": "34.99",
   "Discount": 29,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5213,6 +5573,7 @@
   "SalePrice": "13.99",
   "CsSalesPrice": "13.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5223,6 +5584,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "33.99",
   "Discount": 12,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5233,6 +5595,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "69.99",
   "Discount": 29,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5243,6 +5606,7 @@
   "SalePrice": "23.99",
   "CsSalesPrice": "33.99",
   "Discount": 29,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5253,6 +5617,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "79.99",
   "Discount": 38,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5263,6 +5628,7 @@
   "SalePrice": "19.99",
   "CsSalesPrice": "24.99",
   "Discount": 20,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5273,6 +5639,7 @@
   "SalePrice": "8.99",
   "CsSalesPrice": "8.99",
   "Discount": 0,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5283,6 +5650,7 @@
   "SalePrice": "26.99",
   "CsSalesPrice": "28.99",
   "Discount": 7,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5293,6 +5661,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "209.99",
   "Discount": 14,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5303,6 +5672,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "49.99",
   "Discount": 20,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5313,6 +5683,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "50.99",
   "Discount": 22,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5323,6 +5694,7 @@
   "SalePrice": "11.99",
   "CsSalesPrice": "11.99",
   "Discount": 0,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5333,6 +5705,7 @@
   "SalePrice": "59.99",
   "CsSalesPrice": "64.99",
   "Discount": 8,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5343,6 +5716,7 @@
   "SalePrice": "15.99",
   "CsSalesPrice": "24.99",
   "Discount": 36,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5353,6 +5727,7 @@
   "SalePrice": "169.99",
   "CsSalesPrice": "177.99",
   "Discount": 4,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5363,6 +5738,7 @@
   "SalePrice": "21.99",
   "CsSalesPrice": "29.99",
   "Discount": 27,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5373,6 +5749,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "79.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5383,6 +5760,7 @@
   "SalePrice": "135.99",
   "CsSalesPrice": "146.99",
   "Discount": 7,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5393,6 +5771,7 @@
   "SalePrice": "96.99",
   "CsSalesPrice": "199.99",
   "Discount": 52,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5403,6 +5782,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "35.99",
   "Discount": 17,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5413,6 +5793,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "32.99",
   "Discount": 9,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5423,6 +5804,7 @@
   "SalePrice": "143.99",
   "CsSalesPrice": "143.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5433,6 +5815,7 @@
   "SalePrice": "55.99",
   "CsSalesPrice": "64.99",
   "Discount": 14,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5443,6 +5826,7 @@
   "SalePrice": "35.99",
   "CsSalesPrice": "40.12",
   "Discount": 10,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5453,6 +5837,7 @@
   "SalePrice": "42.99",
   "CsSalesPrice": "42.99",
   "Discount": 0,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5463,6 +5848,7 @@
   "SalePrice": "99.00",
   "CsSalesPrice": "99.99",
   "Discount": 1,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5473,6 +5859,7 @@
   "SalePrice": "119.99",
   "CsSalesPrice": "159.99",
   "Discount": 25,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5483,6 +5870,7 @@
   "SalePrice": "119.99",
   "CsSalesPrice": "159.99",
   "Discount": 25,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5493,6 +5881,7 @@
   "SalePrice": "27.99",
   "CsSalesPrice": "32.99",
   "Discount": 15,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5503,6 +5892,7 @@
   "SalePrice": "76.99",
   "CsSalesPrice": "76.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5513,6 +5903,7 @@
   "SalePrice": "229.99",
   "CsSalesPrice": "258.99",
   "Discount": 11,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5523,6 +5914,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "59.99",
   "Discount": 17,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5533,6 +5925,7 @@
   "SalePrice": "129.99",
   "CsSalesPrice": "162.99",
   "Discount": 20,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5543,6 +5936,7 @@
   "SalePrice": "44.99",
   "CsSalesPrice": "51.99",
   "Discount": 13,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5553,6 +5947,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "40.99",
   "Discount": 2,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5563,6 +5958,7 @@
   "SalePrice": "46.99",
   "CsSalesPrice": "56.99",
   "Discount": 18,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5573,6 +5969,7 @@
   "SalePrice": "58.99",
   "CsSalesPrice": "59.99",
   "Discount": 2,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5583,6 +5980,7 @@
   "SalePrice": "89.99",
   "CsSalesPrice": "89.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5593,6 +5991,7 @@
   "SalePrice": "21.99",
   "CsSalesPrice": "29.99",
   "Discount": 27,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5603,6 +6002,7 @@
   "SalePrice": "25.99",
   "CsSalesPrice": "31.99",
   "Discount": 19,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5613,6 +6013,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "39.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5623,6 +6024,7 @@
   "SalePrice": "294.99",
   "CsSalesPrice": "350.50",
   "Discount": 16,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5633,6 +6035,7 @@
   "SalePrice": "99.99",
   "CsSalesPrice": "115.99",
   "Discount": 14,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5643,6 +6046,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "89.99",
   "Discount": 11,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5653,6 +6057,7 @@
   "SalePrice": "37.99",
   "CsSalesPrice": "40.99",
   "Discount": 7,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5663,6 +6068,7 @@
   "SalePrice": "63.99",
   "CsSalesPrice": "79.99",
   "Discount": 20,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5673,6 +6079,7 @@
   "SalePrice": "32.99",
   "CsSalesPrice": "37.99",
   "Discount": 13,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5683,6 +6090,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "49.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5693,6 +6101,7 @@
   "SalePrice": "129.99",
   "CsSalesPrice": "169.99",
   "Discount": 24,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5703,6 +6112,7 @@
   "SalePrice": "423.99",
   "CsSalesPrice": "489.99",
   "Discount": 13,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5713,6 +6123,7 @@
   "SalePrice": "239.99",
   "CsSalesPrice": "296.51",
   "Discount": 19,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5723,6 +6134,7 @@
   "SalePrice": "25.99",
   "CsSalesPrice": "25.99",
   "Discount": 0,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5733,6 +6145,7 @@
   "SalePrice": "38.99",
   "CsSalesPrice": "38.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5743,6 +6156,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "259.99",
   "Discount": 31,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5753,6 +6167,7 @@
   "SalePrice": "27.99",
   "CsSalesPrice": "27.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5763,6 +6178,7 @@
   "SalePrice": "38.99",
   "CsSalesPrice": "38.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5773,6 +6189,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "49.99",
   "Discount": 20,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5783,6 +6200,7 @@
   "SalePrice": "46.99",
   "CsSalesPrice": "65.99",
   "Discount": 29,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5793,6 +6211,7 @@
   "SalePrice": "45.99",
   "CsSalesPrice": "53.99",
   "Discount": 15,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5803,6 +6222,7 @@
   "SalePrice": "55.99",
   "CsSalesPrice": "55.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5813,6 +6233,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "90.99",
   "Discount": 12,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5823,6 +6244,7 @@
   "SalePrice": "29.99",
   "CsSalesPrice": "29.99",
   "Discount": 0,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5833,6 +6255,7 @@
   "SalePrice": "47.99",
   "CsSalesPrice": "65.99",
   "Discount": 27,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5843,6 +6266,7 @@
   "SalePrice": "299.99",
   "CsSalesPrice": "399.99",
   "Discount": 25,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5853,6 +6277,7 @@
   "SalePrice": "49.99",
   "CsSalesPrice": "72.99",
   "Discount": 32,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5863,6 +6288,7 @@
   "SalePrice": "38.99",
   "CsSalesPrice": "46.99",
   "Discount": 17,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5873,6 +6299,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "299.99",
   "Discount": 40,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5883,6 +6310,7 @@
   "SalePrice": "125.99",
   "CsSalesPrice": "169.99",
   "Discount": 26,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5893,6 +6321,7 @@
   "SalePrice": "4.99",
   "CsSalesPrice": "9.99",
   "Discount": 50,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5903,6 +6332,7 @@
   "SalePrice": "699.99",
   "CsSalesPrice": "759.99",
   "Discount": 8,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5913,6 +6343,7 @@
   "SalePrice": "38.99",
   "CsSalesPrice": "46.99",
   "Discount": 17,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5923,6 +6354,7 @@
   "SalePrice": "54.99",
   "CsSalesPrice": "69.99",
   "Discount": 21,
+  "Rating":3,
   "LabelText": ""
 },
 {
@@ -5933,6 +6365,7 @@
   "SalePrice": "79.99",
   "CsSalesPrice": "79.99",
   "Discount": 0,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5943,6 +6376,7 @@
   "SalePrice": "21.99",
   "CsSalesPrice": "21.99",
   "Discount": 0,
+  "Rating":5,
   "LabelText": ""
 },
 {
@@ -5953,6 +6387,7 @@
   "SalePrice": "56.99",
   "CsSalesPrice": "59.99",
   "Discount": 5,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5963,6 +6398,7 @@
   "SalePrice": "13.99",
   "CsSalesPrice": "14.99",
   "Discount": 7,
+  "Rating":4,
   "LabelText": ""
 },
 {
@@ -5973,6 +6409,7 @@
   "SalePrice": "57.99",
   "CsSalesPrice": "72.99",
   "Discount": 21,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -5983,6 +6420,7 @@
   "SalePrice": "9.99",
   "CsSalesPrice": "9.99",
   "Discount": 0,
+  "Rating":2,
   "LabelText": ""
 },
 {
@@ -5993,6 +6431,7 @@
   "SalePrice": "169.99",
   "CsSalesPrice": "289.99",
   "Discount": 41,
+  "Rating":1,
   "LabelText": ""
 },
 {
@@ -6003,6 +6442,7 @@
   "SalePrice": "39.99",
   "CsSalesPrice": "54.99",
   "Discount": 27,
+  "Rating":5,
   "LabelText": ""
 }
 ],
