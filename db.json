@@ -3812,7 +3812,7 @@
   "SalePrice": "669.00",
   "CsSalesPrice": "699.00",
   "Discount": 4,
-  "Rating":1,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -3867,7 +3867,7 @@
   "SalePrice": "1019.99",
   "CsSalesPrice": "1220.99",
   "Discount": 16,
-  "Rating":3,
+  "Rating":5,
   "LabelText": "PL Warehouse"
 },
 {
@@ -3900,7 +3900,7 @@
   "SalePrice": "1439.99",
   "CsSalesPrice": "1802.99",
   "Discount": 20,
-  "Rating":2,
+  "Rating":5,
   "LabelText": "PL Warehouse"
 },
 {
@@ -3933,7 +3933,7 @@
   "SalePrice": "599.00",
   "CsSalesPrice": "758.60",
   "Discount": 21,
-  "Rating":2,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -3955,7 +3955,7 @@
   "SalePrice": "429.00",
   "CsSalesPrice": "467.99",
   "Discount": 8,
-  "Rating":2,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -3974,10 +3974,10 @@
   "Name": "ELEGLIDE M1 PLUS Electric Mountain Bike 27.5 Inch Tires 250W Brushless Motor 36V 12.5Ah Battery 25Km/h Speed SHIMANO 21 Speeds Shifter IPX4 Waterproof Electric-Assist up to 100KM Max Range Aluminum Alloy Frame Dual Disk Brake Upgraded Version - Black",
   "LinkUrl": "https://m.geekbuying.com/item/ELEGLIDE-M1-PLUS-Electric-Bike-27-5-Inch-12-5Ah-250W-25Km-h-Black-517031.html",
   "PicturePath": "//img.gkbcdn.com/p/2022-04-24/eleglide-m1-plus-upgraded-version-electric-bike-12-5ah-250w-black-c45244-1650765333691._w280_.jpg",
-  "SalePrice": "749.52",
-  "CsSalesPrice": "1060.18",
-  "Discount": 29,
-  "Rating":2,
+  "SalePrice": "2749.52",
+  "CsSalesPrice": "2749.52",
+  "Discount": 0,
+  "Rating":5,
   "LabelText": "PL Warehouse"
 },
 {
@@ -4010,7 +4010,7 @@
   "SalePrice": "139.99",
   "CsSalesPrice": "156.99",
   "Discount": 11,
-  "Rating":3,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4054,7 +4054,7 @@
   "SalePrice": "159.99",
   "CsSalesPrice": "183.99",
   "Discount": 13,
-  "Rating":4,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4087,7 +4087,7 @@
   "SalePrice": "179.99",
   "CsSalesPrice": "205.99",
   "Discount": 13,
-  "Rating":4,
+  "Rating":5,
   "LabelText": "US warehouse"
 },
 {
@@ -4109,7 +4109,7 @@
   "SalePrice": "69.99",
   "CsSalesPrice": "77.99",
   "Discount": 10,
-  "Rating":1,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4208,7 +4208,7 @@
   "SalePrice": "33.99",
   "CsSalesPrice": "33.99",
   "Discount": 0,
-  "Rating":1,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4274,7 +4274,7 @@
   "SalePrice": "1119.99",
   "CsSalesPrice": "1355.99",
   "Discount": 17,
-  "Rating":1,
+  "Rating":5,
   "LabelText": "EU Warehouse"
 },
 {
@@ -4340,7 +4340,7 @@
   "SalePrice": "109.99",
   "CsSalesPrice": "130.99",
   "Discount": 16,
-  "Rating":1,
+  "Rating":5,
   "LabelText": "HK warehouse"
 },
 {
